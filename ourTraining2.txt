@@ -1,0 +1,4 @@
+chou-04/chou1.wav
+chou-04/chou2.wav
+chou-04/chou3.wav
+chou-04/chou4.wav
